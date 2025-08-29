@@ -58,6 +58,7 @@ MG Road and Church Street have fewer restaurants than other places.
 -  What it shows:
 A pie chart showing how many restaurants allow online ordering.
 ✅ Yes (Green): Most restaurants offer online ordering (~612).
+
 ❌ No (Red): Only a small portion (~108) don’t allow online ordering.
 
 
@@ -74,9 +75,13 @@ A pie chart showing how many restaurants allow online ordering.
 -Most restaurants allow online ordering.
 -You can easily filter by location to explore different parts of the city.
 
+---
+
 ## Bonous
 5. Most rated cuisine
 - Tells us how the food is rated accoeding to its type.
+  
+###  Most rated cuisine
   ![Most rated cuisine](images/most_rated_cuisine.jpg)
 
 
