@@ -57,6 +57,7 @@ MG Road and Church Street have fewer restaurants than other places.
 - **Insights:**
 -  What it shows:
 A pie chart showing how many restaurants allow online ordering.
+
 ✅ Yes (Green): Most restaurants offer online ordering (~612).
 
 ❌ No (Red): Only a small portion (~108) don’t allow online ordering.
@@ -71,8 +72,11 @@ A pie chart showing how many restaurants allow online ordering.
 
 ##  Key Takeaways
 -BTM and Koramangala are top hubs for food, both in number of restaurants and variety.
+
 -North Indian & Italian buffets are among the most expensive.
+
 -Most restaurants allow online ordering.
+
 -You can easily filter by location to explore different parts of the city.
 
 ---
