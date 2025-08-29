@@ -4,7 +4,7 @@ Zomato Restaurant Analysis by Top Cuisines by City, Average Cost for Two people,
 
 The insights are based on visualizations created  in Tableau from the dataset.
 ## 📊 Dashboard Screenshot 
-![Dashboard](images/dsahboard.jpg) 
+![Dashboard](images/dashboard.jpg) 
 
 
 ---
